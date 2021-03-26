@@ -4,9 +4,14 @@
   "description": "I want to create a project myself",
   "main": "gulpfile.js",
   "dependencies": {
-    "pug": "^3.0.2"
+    "pug": "^3.0.2",
+    "yarn": "^1.22.10"
   },
-  "devDependencies": {},
+  "devDependencies": {
+    "gulp": "^4.0.2",
+    "gulp-cli": "^2.3.0",
+    "gulp-install": "^1.1.0"
+  },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
