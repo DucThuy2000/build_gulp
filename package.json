@@ -1,0 +1,27 @@
+{
+  "name": "build_gulp",
+  "version": "1.0.0",
+  "description": "I want to create a project myself",
+  "main": "gulpfile.js",
+  "dependencies": {
+    "pug": "^3.0.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/DucThuy2000/build_gulp.git"
+  },
+  "keywords": [
+    "Gulp",
+    "Javascript"
+  ],
+  "author": "Duc Thuy",
+  "license": "MIT",
+  "homepage": "https://github.com/DucThuy2000/build_gulp#readme",
+  "bugs": {
+    "url": "https://github.com/DucThuy2000/build_gulp/issues"
+  }
+}
