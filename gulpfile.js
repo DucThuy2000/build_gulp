@@ -113,5 +113,5 @@ gulp.task('serve', () => {
 });
 
 //Gulp-Method
-gulp.task('dev', gulp.series('serve'));
+gulp.task('run', gulp.series('serve'));
 gulp.task('build', gulp.series('html', 'cleanCSS', 'minifyJS', 'imageMin', 'iconMin'));
